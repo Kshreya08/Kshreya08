@@ -18,11 +18,11 @@ Final year IT student with a passion for Automation, seeking a graduate role to 
 **Web Dev:** HTML, CSS, JavaScript, Struts2, JSP, and database integration using MySQL.
 
 ## ⚙️ Projects
-### AI-Powered Image Classifier ([GitHub](https://github.com/Kshreya08/Imageclass-with-CNN))
+### AI-Powered Image Classifier ([View](https://github.com/Kshreya08/Imageclass-with-CNN))
 - Created a neural network for image classification using **TensorFlow** and **Keras**.
 - Integrated **NumPy** and **Matplotlib** to visualize and enhance model accuracy.
 
-### VR for Health Literacy ([GitHub](https://github.com/Kshreya08/vrhealthliteracyweb))
+### VR for Health Literacy ([View](https://github.com/Kshreya08/vrhealthliteracyweb))
 - Developed an interactive website showcasing **Virtual Reality (VR)** applications in healthcare to promote health awareness.
 
 ---
