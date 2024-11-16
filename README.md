@@ -9,19 +9,14 @@ I'm a final year IT student with a passion for Automation. I'm seeking a graduat
 
 ### Programming Languages:
 - **Java**, **Python**
-
 ### Automation:
 - **Jenkins**, **Git (VCS)**, **Bash scripting**, **Ansible**
-
 ### Containerization:
 - **Docker**, **Kubernetes**
-
 ### Operating Systems:
 - **Linux** (RedHat, Ubuntu)
-
 ### Cloud:
 - **AWS**, **OpenStack**
-
 ### Web Development:
 - **HTML**, **CSS**, **Struts2**, **JSP**, **JDBC**, **MySQL Database**
 
