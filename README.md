@@ -3,19 +3,6 @@
 ## 🚀 About Me
 Final year IT student with a passion for Automation, seeking a graduate role to harness my technical Knowledge and internship experience and further develop my skills in a real-world setting.
 
-## Tech Stack
-
-**Programming Languages:** Java, Python
-
-**Devops Tools:** Jenkins, Git, Bash Scripting, and Ansible
-
-**Containerization:** Docker, Kubernetes
-
-**Operating System:** Linux(Redhat,Ubuntu)
-
-**Cloud Platform:** Experienced with AWS services.
-
-**Web Dev:** HTML, CSS, JavaScript, Struts2, JSP, and database integration using MySQL.
 
 ## ⚙️ Projects
 ### AI-Powered Image Classifier ([View](https://github.com/Kshreya08/Imageclass-with-CNN))
